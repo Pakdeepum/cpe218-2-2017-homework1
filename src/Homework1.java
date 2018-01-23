@@ -1,13 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package homework1;
-/**
- *
- * @author Dell
- */
+
 public class Homework1 {
     
     public static String input = "251-*32*+";
